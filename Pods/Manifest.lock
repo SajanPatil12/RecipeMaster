@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.8.2)
+  - IQKeyboardManagerSwift (6.4.0)
+  - SDWebImage (4.4.7):
+    - SDWebImage/Core (= 4.4.7)
+  - SDWebImage/Core (4.4.7)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - IQKeyboardManagerSwift
+  - SDWebImage (~> 4.0)
+  - SVProgressHUD
+  - SwiftyJSON
+  - Toast-Swift (~> 3.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  IQKeyboardManagerSwift: ed9b04ee0e3067ffba543283462d619f944b05e5
+  SDWebImage: c10d14a8883ebd89664f02a422006f66a85c0c5d
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: 0a349756544eafc13bb27de38d36f128399a92a9
+
+COCOAPODS: 1.6.1
